@@ -1,0 +1,11 @@
+c:\users\felipe\documents\visual studio 2015\Projects\Areas_CorralMosqueraFelipe\Areas_CorralMosqueraFelipe\bin\Debug\Areas_CorralMosqueraFelipe.exe.config
+c:\users\felipe\documents\visual studio 2015\Projects\Areas_CorralMosqueraFelipe\Areas_CorralMosqueraFelipe\bin\Debug\Areas_CorralMosqueraFelipe.exe
+c:\users\felipe\documents\visual studio 2015\Projects\Areas_CorralMosqueraFelipe\Areas_CorralMosqueraFelipe\bin\Debug\Areas_CorralMosqueraFelipe.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\Areas_CorralMosqueraFelipe\Areas_CorralMosqueraFelipe\bin\Debug\Areas_CorralMosqueraFelipe.xml
+c:\users\felipe\documents\visual studio 2015\Projects\Areas_CorralMosqueraFelipe\Areas_CorralMosqueraFelipe\obj\Debug\Areas_CorralMosqueraFelipe.vbprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2015\Projects\Areas_CorralMosqueraFelipe\Areas_CorralMosqueraFelipe\obj\Debug\Areas_CorralMosqueraFelipe.Form1.resources
+c:\users\felipe\documents\visual studio 2015\Projects\Areas_CorralMosqueraFelipe\Areas_CorralMosqueraFelipe\obj\Debug\Areas_CorralMosqueraFelipe.Resources.resources
+c:\users\felipe\documents\visual studio 2015\Projects\Areas_CorralMosqueraFelipe\Areas_CorralMosqueraFelipe\obj\Debug\Areas_CorralMosqueraFelipe.vbproj.GenerateResource.Cache
+c:\users\felipe\documents\visual studio 2015\Projects\Areas_CorralMosqueraFelipe\Areas_CorralMosqueraFelipe\obj\Debug\Areas_CorralMosqueraFelipe.exe
+c:\users\felipe\documents\visual studio 2015\Projects\Areas_CorralMosqueraFelipe\Areas_CorralMosqueraFelipe\obj\Debug\Areas_CorralMosqueraFelipe.xml
+c:\users\felipe\documents\visual studio 2015\Projects\Areas_CorralMosqueraFelipe\Areas_CorralMosqueraFelipe\obj\Debug\Areas_CorralMosqueraFelipe.pdb
